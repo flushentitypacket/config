@@ -1,0 +1,22 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Base16 Color Schemes",
+		"FindResultsApplyChanges",
+		"Git",
+		"GitGutter",
+		"MarkdownEditing",
+		"Pretty JSON",
+		"RSpec",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-ruby",
+		"SyncedSideBar",
+		"Theme - Spacegray",
+		"Vintageous"
+	]
+}
